@@ -1,0 +1,15 @@
+João Tito, 18/0123301
+
+Para executar o arquivo da questão, 1, utilize
+$./BMP [nome do arquivo de origem] [nome do arquivo a ser gerado] [tamanho da janela de filtragem] [modo de filtragem]
+
+O tamanho da janela de filtragem deve ser um valor impar
+O modo de filtragem so pode ser:
+1 - media
+2 - mediana
+
+Se não existir o arquivo BMP, é possível utilizar
+$./Compila.sh
+Para gerar esse arquivo
+
+A pasta Arquivos contem os arquivos do tipo C que são usados durante o processamento das imagens
